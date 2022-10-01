@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    background-image: linear-gradient(to bottom , black, rgb(21, 21, 63));
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    margin: 10px 3px 10px 3px;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    border: .3cm;
+    border-color: grey;
+    border-style: double;
+}
